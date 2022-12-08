@@ -6,4 +6,4 @@ Acceleration Card: Xilinx Alveo U250
 Software: Xilinx Vitis 2019.1
 Source: University of Pittsburgh
 
-![alt text](https://github.com/Sonnvu/ECE-1110-Lab-3-Custom-Instruction-using-CRC-FPGA/blob/vivado_hardware_usage.png?raw=true)
+![alt text](https://github.com/Sonnvu/ECE-1110-Lab-3-Custom-Instruction-using-CRC-FPGA/blob/main/vivado_hardware_usage.png)
